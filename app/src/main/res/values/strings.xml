@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Testing Part2</string>
+    <string name="espresso">Espresso</string>
+    <string name="add_favourite">Add favourite</string>
+</resources>

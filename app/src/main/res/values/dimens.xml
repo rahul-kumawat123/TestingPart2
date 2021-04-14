@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="itemName_tv_width">207dp</dimen>
+    <dimen name="itemName_tv_height">67dp</dimen>
+    <dimen name="checkbox_width">56dp</dimen>
+    <dimen name="checkbox_height">62dp</dimen>
+    <dimen name="favourite_btn_width">161dp</dimen>
+    <dimen name="favourite_btn_height">68dp</dimen>
+</resources>
